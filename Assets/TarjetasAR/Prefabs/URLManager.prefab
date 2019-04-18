@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5037322301304114434
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5037322301304114437}
+  - component: {fileID: 5037322301304114436}
+  m_Layer: 0
+  m_Name: URLManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5037322301304114437
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5037322301304114434}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0.035000205, y: 0.27999997, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5037322301304114436
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5037322301304114434}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4ea9059e592c2f840a5182a95e4d0374, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Enfermeria: https://www.uniandes.edu.ec/web/facultades-y-carreras/enfermeria/
+  Medicina: https://www.uniandes.edu.ec/web/facultades-y-carreras/medicina/
+  Odontologia: https://www.uniandes.edu.ec/web/facultades-y-carreras/odontologia/
+  Administracion: https://www.uniandes.edu.ec/web/facultades-y-carreras/administracion-de-empresas/
+  Gastronomia: https://www.uniandes.edu.ec/web/facultades-y-carreras/gastronomia/
+  Turismo: https://www.uniandes.edu.ec/web/facultades-y-carreras/turismo/
+  Derecho: https://www.uniandes.edu.ec/web/facultades-y-carreras/derecho/
+  Contabilidad: https://www.uniandes.edu.ec/web/facultades-y-carreras/contabilidad-y-auditoria/
+  Software: https://www.uniandes.edu.ec/web/facultades-y-carreras/software/
+  Facebook: https://www.facebook.com/UniversidadTecnicadeAmbatoOficial/
+  Instagram: https://www.instagram.com/utecnicaambato/?hl=es-la
+  Web: https://www.uta.edu.ec/v3.2/uta/
+  Twiter: https://twitter.com/UTecnicaAmbato?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+  Youtube: https://www.youtube.com/channel/UC_wI7PoDnSsdSiZ-leipQ_Q
+  Google: https://plus.google.com/u/0/103685121304715032157
+  Inscripciones: http://45.238.216.5:8110/appregistroestudiantil/
+  Matricula: https://www.uta.edu.ec/v3.2/uta/noticia15.html
+  Cronograma: https://www.uniandes.edu.ec/web/agenda-academica/
