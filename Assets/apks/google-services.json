@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "74294916869",
+    "firebase_url": "https://vinaryapp-7c2e3.firebaseio.com",
+    "project_id": "vinaryapp-7c2e3",
+    "storage_bucket": "vinaryapp-7c2e3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74294916869:android:422b3faf00791b37",
+        "android_client_info": {
+          "package_name": "com.vinary.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74294916869-32dci0v0tpdf8agh2ptcibug39snloe4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwnzc7_4S3nianIRSUqWNCihQmTKB68FI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74294916869-32dci0v0tpdf8agh2ptcibug39snloe4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
