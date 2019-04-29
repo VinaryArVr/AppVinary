@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://vinaryapp-7c2e3.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">74294916869</string>
+  <string name="google_storage_bucket" translatable="false">vinaryapp-7c2e3.appspot.com</string>
+  <string name="project_id" translatable="false">vinaryapp-7c2e3</string>
+  <string name="google_api_key" translatable="false">AIzaSyBwnzc7_4S3nianIRSUqWNCihQmTKB68FI</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBwnzc7_4S3nianIRSUqWNCihQmTKB68FI</string>
+  <string name="google_app_id" translatable="false">1:74294916869:android:422b3faf00791b37</string>
+  <string name="default_web_client_id" translatable="false">74294916869-32dci0v0tpdf8agh2ptcibug39snloe4.apps.googleusercontent.com</string>
+</resources>
