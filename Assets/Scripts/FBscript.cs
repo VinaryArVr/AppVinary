@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using Facebook.Unity;
+using UnityEngine.SceneManagement;
 
 public class FBscript : MonoBehaviour
 {
@@ -42,6 +43,17 @@ public class FBscript : MonoBehaviour
         if(result.Error != null)
         {
             Debug.Log("FB is logged in");
+        }
+        else
+        {
+            Debug.Log("FB is not logged in");
+        }
+    }
+    void ChangeScene()
+    {
+        if(FB.IsLoggedIn)
+        {
+            SceneManager.LoadScene("5_Home");
         }
         else
         {
