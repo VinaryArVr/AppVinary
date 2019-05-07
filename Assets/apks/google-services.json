@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "74294916869-duglkfm0o3slm9psu165urle1621biv6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vinary.app",
+            "certificate_hash": "5ffa242bdaddd113058cdcca19f38f8fa1411192"
+          }
+        },
+        {
           "client_id": "74294916869-32dci0v0tpdf8agh2ptcibug39snloe4.apps.googleusercontent.com",
           "client_type": 3
         }
