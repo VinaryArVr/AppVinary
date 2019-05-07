@@ -163,18 +163,6 @@ Support
 
 Release Notes
 -------------
-### 5.7.0
-  - Overview
-    - Fixed an issue with escape characters in Auth, deprecated functions
-      in Remote Config, and fixed an issue in the Android Resolver.
-  - Changes
-    - Auth: Fixed UserProfile.PhotoUrl removing percent encoded characters when
-      being set.
-    - Remote Config: Config namespaces are now deprecated. You'll need to switch
-      to methods that use the default namespace.
-    - General (Android): Fixed an exception on resolution in some versions of
-      Unity 2017.4 by changing how Android ABI selection is handled.
-
 ### 5.6.1
   - Overview
     - Fixed race condition on iOS SDK startup and fixed some issues in the
