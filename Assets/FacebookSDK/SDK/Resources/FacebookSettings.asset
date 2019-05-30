@@ -16,9 +16,9 @@ MonoBehaviour:
   clientTokens:
   - 
   appIds:
-  - 2124138204367596
+  - 425988334647975
   appLabels:
-  - VinaryApp
+  - LoginVinary
   cookie: 1
   logging: 1
   status: 1

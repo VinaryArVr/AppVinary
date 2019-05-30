@@ -6,7 +6,7 @@ using UnityEngine.UI;
 
 public class EnviarCorreo : MonoBehaviour
 {
-    
+
     protected Firebase.Auth.FirebaseAuth auth;
     protected Firebase.Auth.FirebaseUser user;
     private bool signedIn;

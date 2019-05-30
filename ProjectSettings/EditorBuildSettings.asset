@@ -5,10 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/SCENES/0_PantallaCarga.unity
     guid: e1250297608fabd43a80668884746409
-  - enabled: 1
+  - enabled: 0
     path: Assets/SCENES/1_Instrucciones.unity
     guid: 76940af0cc743aa47960bcaca9a119c2
   - enabled: 1
@@ -23,76 +23,88 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/SCENES/5_Home.unity
     guid: e0512647cb5f42a4891587d45bca1d41
-  - enabled: 1
+  - enabled: 0
     path: Assets/SCENES/6_Arquitectura.unity
     guid: ee62c69c3d5abf742bb414c324ba4e1a
-  - enabled: 1
+  - enabled: 0
     path: Assets/SCENES/7_Favoritos.unity
     guid: 03196ee702a95a14db56c0615fb7ef20
-  - enabled: 1
+  - enabled: 0
     path: Assets/SCENES/8_MisModelos.unity
     guid: 79b6938ddbb7c8448aff0aa2e1b0ac21
-  - enabled: 1
+  - enabled: 0
     path: Assets/SCENES/9_Educacion.unity
     guid: e7b97d5ee4c84824fb9854091b7e4f17
-  - enabled: 1
+  - enabled: 0
     path: Assets/SCENES/10_Merchandising.unity
     guid: edfcf60745e365d4c847992693b976b8
-  - enabled: 1
+  - enabled: 0
     path: Assets/SCENES/11_Turismo.unity
     guid: 70a290415ece2e84494e6cceefcd8864
-  - enabled: 1
+  - enabled: 0
     path: Assets/SCENES/12_TarjetasInteligentes.unity
     guid: 1502ae2ee4fd5c14384b684b6f88fb21
-  - enabled: 1
+  - enabled: 0
     path: Assets/SCENES/13_BurjAlArab.unity
     guid: bec55383d0eefe14283de200b4332340
-  - enabled: 1
+  - enabled: 0
     path: Assets/SCENES/14_Directorio.unity
     guid: 23d9f9b9d4f7c1149a653062ac2037db
-  - enabled: 1
+  - enabled: 0
     path: Assets/SCENES/15_Modelos3D.unity
     guid: 3fb7f39aee646ad419f90c2ce53a35a1
-  - enabled: 1
+  - enabled: 0
     path: Assets/SCENES/16_Contactanos.unity
     guid: 17b909b88092b0746bd5554734bd66ea
-  - enabled: 1
+  - enabled: 0
     path: Assets/SCENES/equipos/Aucas.unity
     guid: 7d45fdd2c3fdf2747b99a5f8d3550251
-  - enabled: 1
+  - enabled: 0
     path: Assets/SCENES/equipos/Barcelona.unity
     guid: 93772e23da4fc0c46ac2a1ec06659ca0
-  - enabled: 1
+  - enabled: 0
     path: Assets/SCENES/equipos/Corazon.unity
     guid: 0cda3a6389f9e854295fc5cbec0fb825
-  - enabled: 1
+  - enabled: 0
     path: Assets/SCENES/equipos/Cuenca.unity
     guid: baae3318ef33fc34d86727e93e6a7ce9
-  - enabled: 1
+  - enabled: 0
     path: Assets/SCENES/equipos/Emelec.unity
     guid: fc2b99a4d2e8c974d82c201bd18a9b01
-  - enabled: 1
+  - enabled: 0
     path: Assets/SCENES/equipos/Independiente.unity
     guid: df6522925f676af4dae14c473a96c496
-  - enabled: 1
+  - enabled: 0
     path: Assets/SCENES/equipos/Liga.unity
     guid: f0795afa3003e394099d22b49fb8d126
-  - enabled: 1
+  - enabled: 0
     path: Assets/SCENES/equipos/Macara.unity
     guid: fe27f2ab7cbd6b549a2bb95ac79ba040
-  - enabled: 1
+  - enabled: 0
     path: Assets/SCENES/equipos/Murcielago.unity
     guid: 8d794d0efe059bd46bc79bb39c415d50
-  - enabled: 1
+  - enabled: 0
     path: Assets/SCENES/equipos/Nacional.unity
     guid: 78ad5c2bed78b9948826b80f81cb2553
-  - enabled: 1
+  - enabled: 0
     path: Assets/SCENES/equipos/Ogro.unity
     guid: 10d373db826cd7c44b13be57d1fd2453
-  - enabled: 1
+  - enabled: 0
     path: Assets/SCENES/equipos/Tecnico.unity
     guid: c87b6de7f20a4b24abe56fd07f165c23
-  - enabled: 1
+  - enabled: 0
+    path: Assets/SCENES/5_Home.unity
+    guid: e0512647cb5f42a4891587d45bca1d41
+  - enabled: 0
+    path: Assets/SCENES/2_LogIn.unity
+    guid: 21094dc6d20f3374c90824c477e27e21
+  - enabled: 0
+    path: Assets/SCENES/3_Registro.unity
+    guid: 7be05dd05b936204f922a5eede323a8a
+  - enabled: 0
+    path: "Assets/SCENES/4_RecuperarContrase\xF1a.unity"
+    guid: 8f08c69376358bb468d7fb7c19546a37
+  - enabled: 0
     path: Assets/SCENES/5_Home.unity
     guid: e0512647cb5f42a4891587d45bca1d41
   m_configObjects: {}

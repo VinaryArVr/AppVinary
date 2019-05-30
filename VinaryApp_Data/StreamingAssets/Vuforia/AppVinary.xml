@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="56910241_594913490975401_2124314378202251264_n" size="10.000000 15.789474" />
+    <ImageTarget name="logo-ecuadortv" size="10.000000 2.385827" />
+    <ImageTarget name="Props" size="10.000000 10.000000" />
+    <ImageTarget name="Vinary" size="10.000000 14.139460" />
+    <ImageTarget name="habiqo" size="10.000000 10.000000" />
+    <ImageTarget name="UTA" size="10.000000 6.045400" />
+    <ImageTarget name="Capitalika" size="10.000000 4.541420" />
+  </Tracking>
+</QCARConfig>
