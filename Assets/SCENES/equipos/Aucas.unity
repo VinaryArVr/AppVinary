@@ -162,7 +162,7 @@ PrefabInstance:
     - target: {fileID: 3843774773537734867, guid: 322830dd0f3b982428f3a0ab9b636f77,
         type: 3}
       propertyPath: m_RootOrder
-      value: 1
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 3843774773537734867, guid: 322830dd0f3b982428f3a0ab9b636f77,
         type: 3}
@@ -293,7 +293,7 @@ PrefabInstance:
     - target: {fileID: 6981797976155235324, guid: 6bfa496e352ed6043b89cd74a97209e2,
         type: 3}
       propertyPath: m_RootOrder
-      value: 3
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 6981797976155235324, guid: 6bfa496e352ed6043b89cd74a97209e2,
         type: 3}
@@ -424,7 +424,7 @@ PrefabInstance:
     - target: {fileID: 1736287439943112945, guid: 9c429d740cea8c448bf8fa8396d21956,
         type: 3}
       propertyPath: m_RootOrder
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1736287439943112945, guid: 9c429d740cea8c448bf8fa8396d21956,
         type: 3}
@@ -579,6 +579,7 @@ GameObject:
   - component: {fileID: 212136752}
   - component: {fileID: 212136751}
   - component: {fileID: 212136756}
+  - component: {fileID: 212136757}
   m_Layer: 0
   m_Name: ARCamera
   m_TagString: Untagged
@@ -688,6 +689,20 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 27e81da1a06885340bb3082bd76715f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &212136757
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 212136750}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b0e20f7667f69f4caf0e30d5732feab, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ScreenshotName: Aucas.png
+  ShareMessage: Aucas
 --- !u!1 &439758734
 GameObject:
   m_ObjectHideFlags: 0
@@ -838,7 +853,7 @@ PrefabInstance:
     - target: {fileID: 7550319394140736283, guid: c76d7ca7cada1b44598dca12a98a727b,
         type: 3}
       propertyPath: m_RootOrder
-      value: 2
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7550319394140736283, guid: c76d7ca7cada1b44598dca12a98a727b,
         type: 3}
