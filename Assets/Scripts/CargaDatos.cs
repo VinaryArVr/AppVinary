@@ -38,10 +38,10 @@ public class CargaDatos : MonoBehaviour
             }
         });
 
-      
-       
 
-        
+
+
+
 
     }
     void InitializeFirebase()
@@ -63,30 +63,31 @@ public class CargaDatos : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
-    public void mostrar() {
+    public void mostrar()
+    {
 
-       reference.Child("Archivos").OrderByChild("link").LimitToLast(10).GetValueAsync().ContinueWith(x => {
-       if (x.Result == null)
-       {
-           Debug.Log("null!");
-       }
-       else if (!x.Result.HasChildren)
-       {
-           Debug.Log("no children!");
-       }
-       else
-       {
-           foreach (var child in x.Result.Children)
-           {
+        reference.Child("Archivos").OrderByChild("link").LimitToLast(10).GetValueAsync().ContinueWith(x => {
+            if (x.Result == null)
+            {
+                Debug.Log("null!");
+            }
+            else if (!x.Result.HasChildren)
+            {
+                Debug.Log("no children!");
+            }
+            else
+            {
+                foreach (var child in x.Result.Children)
+                {
                     Debug.Log(child.Value.ToString());
-                   StartCoroutine(LoadImage(child.Value.ToString()));
-                   
-           }
-       }
-   });
+                    StartCoroutine(LoadImage(child.Value.ToString()));
+
+                }
+            }
+        });
 
 
 
